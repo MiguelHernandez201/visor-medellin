@@ -1,0 +1,13 @@
+{
+  "id": "com.aplicacioneslg.visor",
+  "version": "1.5.0",
+  "vendor": "AplicacionesLG",
+  "type": "web",
+  "main": "index.html",
+  "title": "Visor Medellín",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "bgColor": "#05070d",
+  "resolution": "1920x1080",
+  "requiredACG": []
+}
